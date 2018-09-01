@@ -12,7 +12,7 @@ setup(
     author_email="timvancann@gmail.com",
     packages=["brain_memory"],
     install_requires=[
-        'english-to-ipa==0.1'
+        'english-to-ipa==0.1',
         'pyyaml==3.13'
     ],
     extras_require={
@@ -23,6 +23,6 @@ setup(
     },
     include_package_data=True,
     dependency_links=[
-        "git+https://github.com/timvancann/English-to-IPA.git@tvc-add-setup#egg=english-to-ipa-0.1"
+        "git+https://github.com/mphilli/English-to-IPA.git@master#egg=english-to-ipa-0.1"
     ],
 )

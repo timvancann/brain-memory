@@ -1,4 +1,4 @@
-from pymory.majorsystem import word_to_number
+from brain_memory.majorsystem import word_to_number
 
 
 def test_major_convert():
