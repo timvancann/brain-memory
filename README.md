@@ -12,7 +12,7 @@ Convert any one or two digit number to a wordlist
 ['amor', 'hammer', 'hummer', 'mare', 'maria', 'marry', 'mixer', 'moor', 'mower']
 ```
 
-Convert any English word to a number, the word has to be in the CMU dictionary to receive proper phonetic translations, otherwise it'll be a direct conversion; an asterisk is added if that happens.
+Convert any English word to a number. The word has to be in the [CMU dictionary](https://en.wikipedia.org/wiki/CMU_Pronouncing_Dictionary) to receive proper phonetic translations, otherwise it'll be a direct conversion - an asterisk is added when that happens.
 ```
 from brain_memory.majorsystem import word_to_number
 >>> word_to_number('cheese')
@@ -24,7 +24,7 @@ from brain_memory.majorsystem import word_to_number
 ```
 
 ### Practice
-Practice converting a word to a number. For this, an internal word list is used to randomly pick a word. This is the same wordlist as the `number_to_words` function. Therefore all numbers should be between 0 and 99
+Practice converting a word to a number. For this, the internal wordlist is used.
 ```
 >>> from brain_memory.train import practice_to_number, practice_to_word
 >>> practice_to_number()
