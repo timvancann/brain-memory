@@ -1,4 +1,5 @@
 # brain-memory
+[![Build Status](https://travis-ci.com/timvancann/brain-memory.svg?branch=master)](https://travis-ci.com/timvancann/brain-memory)
 
 Practice and reference the [Mnemonic major system](https://en.wikipedia.org/wiki/Mnemonic_major_system)
 
