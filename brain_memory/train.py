@@ -1,7 +1,7 @@
 import random
 from typing import Tuple
 
-from pymory.majorsystem import word_to_number, _load_wordlist
+from brain_memory.majorsystem import word_to_number, _load_wordlist
 
 
 def _random_bool():

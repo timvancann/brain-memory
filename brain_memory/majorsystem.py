@@ -38,6 +38,8 @@ def word_to_number(word: str) -> str:
     groups = pattern.findall(converted)
     logging.debug(f'{word} -> {converted} -> {groups}')
     n = ''.join([str(major[_]) for _ in groups])
+    if converted.endswith('*'):
+        n += '*'
     return n
 
 
@@ -50,8 +52,6 @@ def _load_wordlist() -> Dict[str, List[str]]:
 def number_to_words(number: str) -> List[str]:
     if type(number) == int:
         number = str(number)
-    if type(number != str):
-        raise ValueError("Please provide a valid number")
     if len(number) > 2 or len(number) == 0:
         raise ValueError("Can only convert numbers between 0 and 99")
 
