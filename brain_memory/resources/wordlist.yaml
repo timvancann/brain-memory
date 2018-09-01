@@ -1,0 +1,225 @@
+- number: '00'
+  words: [oasis, sauce, swiss, zeus, zzzz]
+- number: '01'
+  words: [city, sad, set, side, soda, suit]
+- number: '02'
+  words: [sauna, sign, sun, snow, swan]
+- number: '03'
+  words: [sumo, sum, sumsum, zoom, swim, sim]
+- number: '04'
+  words: [sahara, sewer, sir, sorrow, sorry, sour, user]
+- number: '05'
+  words: [cell, sail, seal, silo, soil]
+- number: '06'
+  words: [sage, soya, sushi, switch, sash, siege]
+- number: '07'
+  words: [sack, ski, sky, sock, sick, saga, whiskey, zika, sequoia]
+- number: 08
+  words: [safe, sofa, sieve, save]
+- number: 09
+  words: [soap, soup, usb, wasp, zip, spy]
+- number: '10'
+  words: [dice, ideas, toys, whitehouse, dose, toes, daisy]
+- number: '11'
+  words: [dad, data, dead, dot, teddy, tight, tutu, tote, dodo]
+- number: '12'
+  words: [den, tin, tiny, town, twin, tuna, dune, ton]
+- number: '13'
+  words: [dam, dame, team, time, tomb, dome, dime]
+- number: '14'
+  words: [deer, door, tar, tree, water, tire, tower, dry, dairy]
+- number: '15'
+  words: [dahlia, doll, tail, tool, towel, dial, towel, tile]
+- number: '16'
+  words: [dish, dj, teach, touch, attach, tissue]
+- number: '17'
+  words: [dock, dog, duck, duke, tick, tack, taco]
+- number: '18'
+  words: [deaf, dive, dove, toffee, tofu, tv]
+- number: '19'
+  words: [depot, tape, tepee, toupee, tube, tap]
+- number: '20'
+  words: [anise, knees, nasa, news, nose, wings, noose]
+- number: '21'
+  words: [ant, hand, hunt, india, knight, net, night, wind]
+- number: '22'
+  words: [nanny, neon, nun, onion, union]
+- number: '23'
+  words: [gnome, name, nemo, anime]
+- number: '24'
+  words: [narrow, norway, winner, hanger, honor]
+- number: '25'
+  words: [nail, nhl, nile, noel]
+- number: '26'
+  words: [inch, nacho, niche, notch, hinge]
+- number: '27'
+  words: [hang, ink, knock, neck, nuke]
+- number: '28'
+  words: [info, knife, nave, navy, nova]
+- number: '29'
+  words: [honeybee, nap, nappy, newby, noob, knob]
+- number: '30'
+  words: [mass, mess, moss, mouse (animal+tech), holmes, moose, mace]
+- number: '31'
+  words: [mad, mat, meat, media, mid, moat, mud, mite, meadow]
+- number: '32'
+  words: [humming, man, mini, money, moon, woman, mine, menu]
+- number: '33'
+  words: [memo, miami, mime, mom, mummy]
+- number: '34'
+  words: [amor, hammer, hummer, mare, maria, marry, mixer, moor, mower]
+- number: '35'
+  words: [mail, male, meal, mole, mill, mule, mall]
+- number: '36'
+  words: [image, mash, match, maya, mesh, mojo]
+- number: '37'
+  words: [mac, mecca, mega, mexico, mic, mickey, omega, mug]
+- number: '38'
+  words: [mafia, mofa, move, movie, muff]
+- number: '39'
+  words: [map, mop, wimp, hemp, imp, hump]
+- number: '40'
+  words: [race, rays, rice, rose, iris, horse]
+- number: '41'
+  words: [rat, road, rod, radio, art, reed, heart, rite]
+- number: '42'
+  words: [rain, ruin, run, urn, iron, arena, rhino, heroine, horn]
+- number: '43'
+  words: [ram, rim, rum, worm, aroma, arm, rome]
+- number: '44'
+  words: [roar, rear, horror, error, aurora, warrior, rewire]
+- number: '45'
+  words: [rail, railway, role, roll, royal, oral, rally, relay]
+- number: '46'
+  words: [rage, rich, roach, rush, orgy, rush, rouge, russia]
+- number: '47'
+  words: [reggae, rig, rock, wreck, arc, rake, rook, rug]
+- number: '48'
+  words: [rave, reef, riff, roof, arrive, rough]
+- number: '49'
+  words: [rip, rap, rib, rope, ruby, wrap, harp, herb, robe]
+- number: '50'
+  words: [alice, lace, lasso, loss, walls, whales, wheels, lice, loose, lazy]
+- number: '51'
+  words: [elite, lady, led, lid, light, old, loot, loud, load]
+- number: '52'
+  words: [alien, alone, lan, lane, liane, line, lion, long, lawn, lean]
+- number: '53'
+  words: [elm, helium, lam, lama, lame, lime, loom, limb]
+- number: '54'
+  words: [elixir, larry, lawyer, layer, lorry, lower, lure, lyra, lair]
+- number: '55'
+  words: [lily, lol, lolly, loyal, lull]
+- number: '56'
+  words: [leash, leech, lychee, algae, lash, ledge, lodge]
+- number: '57'
+  words: [league, lock, logo, elk, luke, leek, leg, lick, log, luck]
+- number: '58'
+  words: [alpha, elf, laugh, lava, leaf, life, live, loaf, love, olive, wolf, loaf]
+- number: '59'
+  words: [help, lip, lobby, loop, elbow, lab, leap, lap, lobe, lop]
+- number: '60'
+  words: [cheese, jazz, juice, shoes, wishes, chaise, chess, jaws]
+- number: '61'
+  words: [chat, cheetah, jet, joda, judo, cheat, chute, jute, shadow, shed, sheet,
+    shit, shoot]
+- number: '62'
+  words: [chain, join, shiny, chin, china, genie, gene, john, gin]
+- number: '63'
+  words: [chime, jam, shame, gym, jimi]
+- number: '64'
+  words: [chair, cherry, jar, jura, shower, cheer, gyro, jury, shear, shore]
+- number: '65'
+  words: [cello, chill, chilly, jelly, shell, jail, jewel, gel, shawl]
+- number: '66'
+  words: [choo-choo, hashish, shisha, yoyo, judge]
+- number: '67'
+  words: [check, cheque, jockey, joga, shake, joke, chalk, jug, shock]
+- number: '68'
+  words: [chef, chief, shave, shiva, chaff, sheaf]
+- number: '69'
+  words: [chip, chop, jeep, job, ship, shape, sheep, shop]
+- number: '70'
+  words: [gas, gaze, goose, kiss, weeks, case, chaos, eggs, keys, coat, god, kitty]
+- number: '71'
+  words: [cat, gate, ghetto, goat, gouda, kite]
+- number: '72'
+  words: [can, cone, gene, gnu, iguana, cane, canoe, coin, gawn, kahn, guinea, queen]
+- number: '73'
+  words: [cam, game, gamma, gum, kame, comb, calm]
+- number: '74'
+  words: [car, crow, curry, grey, grow, guru, hacker, cairo, choir, gear]
+- number: '75'
+  words: [coal, clay, goal, keyhole, kilo, koala, glow, cola, collie, glue, quail]
+- number: '76'
+  words: [cage, cash, coach, couch, gauge, gosh, catch, cache, quiche]
+- number: '77'
+  words: [cacao, cake, cookie, gecko, kg, cock, coke, cook, cuckoo, keg, gig, kick,
+    quake]
+- number: '78'
+  words: [agave, "caf\xE9", cave, coffee, calf, cuff, cava]
+- number: '79'
+  words: [cap, copy, cuba, cup, gap, cub, cube, cab, cape, coop, cowboy]
+- number: '80'
+  words: [face, fuse, office, vase, waves, fizzy, fuzzy]
+- number: '81'
+  words: [feet, fight, food, foot, photo, video, fat]
+- number: '82'
+  words: [fan, fun, havana, phone, fawn, heaven, fin, oven, vane, van, vine]
+- number: '83'
+  words: [fame, foam, fume, femme]
+- number: '84'
+  words: [fairy, fire, fur, hoover, pharaoh, fair, ferry, fir, fry, ivory]
+- number: '85'
+  words: [fall, feel, fell, file, fool, fuel, full, fully, villa, fly, flea, foal,
+    fuel, fowl, veil]
+- number: '86'
+  words: [fiji, fish, fudge, voyage, fetch]
+- number: '87'
+  words: [fig, fog, vogue, fag]
+- number: '88'
+  words: [fifa, five, viva, fee-fi-fo-fum, fife]
+- number: '89'
+  words: [fab, fbi, phobia, vip, fib, fob]
+- number: '90'
+  words: [bass, boss, bus, pass, pizza, bees, booze, paws, piece, peas, piss]
+- number: '91'
+  words: [bat, bed, boat, buddha, bead, bite, boot, bud, butt, pad, peat, pet, pod,
+    pot, put, bot]
+- number: '92'
+  words: [bang, bean, bone, bun, bunny, pen, piano, pine, pony, pin, pan, pawn]
+- number: '93'
+  words: [beam, boom, bum, puma, poem, balm, palm, bomb]
+- number: '94'
+  words: [bear, beer, berry, opera, pear, bra, boar, pier, pray, prey]
+- number: '95'
+  words: [ball, pole, pool, pile, pill, peel, apple, boil, bowl, bull, pail, pillow,
+    plow]
+- number: '96'
+  words: [bocchia, badge, bush, peach, posh, apache, beach, pouch]
+- number: '97'
+  words: [bag, bike, book, bug, pack, pig, puck, beak, peg, pick, pug, pike]
+- number: '98'
+  words: [beef, buff, puff, buffet, pave]
+- number: '99'
+  words: [baby, bob, bobby, hiphop, papa, pipe, poppy, pub, puppy]
+- number: '0'
+  words: [cia, saw, sioux, soy, zoo, sai]
+- number: '1'
+  words: [tea, tie, toy, dew, dough, dye, toe, thai]
+- number: '2'
+  words: [new, noah, knee, honey]
+- number: '3'
+  words: [ma, meow, moa, mow, moo]
+- number: '4'
+  words: [raw, ray, rio, row, rye]
+- number: '5'
+  words: [ley, loo, low, lie]
+- number: '6'
+  words: [chai, chi, chia, chihuahua, joy, shoe]
+- number: '7'
+  words: [cow, koi, kiwi, go, gaia, key, egg]
+- number: '8'
+  words: [foe, phi, vow, ivy]
+- number: '9'
+  words: [bee, boa, bow, buy, bye, pee, pie]
